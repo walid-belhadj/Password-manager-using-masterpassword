@@ -1,3 +1,3 @@
 # Password-manager-using-masterpassword
-Not yet finished 
-You need to create your own database
+Not yet finished ( 75 % ) got stuck how to create browser extension 
+You need to create your own database postgresql 
